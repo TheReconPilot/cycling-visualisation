@@ -1,0 +1,7 @@
+gpxo
+
+# https://github.com/ovinc/gpxo?tab=readme-ov-file#troubleshooting
+matplotlib<=3.3.2
+
+jupyter
+notebook
