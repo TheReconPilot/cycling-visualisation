@@ -1,7 +1,12 @@
 .ipynb_checkpoints/
 
+.venv/
+
 # Data files
 *.gpx
 *.kmz
 *.kml
-*.csv
+*.
+
+# Output files
+*.html
