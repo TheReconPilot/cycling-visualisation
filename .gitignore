@@ -6,7 +6,7 @@
 *.gpx
 *.kmz
 *.kml
-*.
+*.csv
 
 # Output files
 *.html
